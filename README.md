@@ -1,7 +1,7 @@
 <h1 align="center">Juan Del Carmo</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/juan-del" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-5a0f1a?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
